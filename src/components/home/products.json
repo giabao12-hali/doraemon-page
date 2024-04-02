@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lsfktmfbjgecdd",
+            "name": "HOA SÁP DORAEMON VALENTINE KÈM THÚ BÔNG MỀM MỊN",
+            "price": [
+                {
+                    "old": 450000,
+                    "new": 295000
+                }
+            ]
+        },
+        {
+            "img": "https://down-vn.img.susercontent.com/file/60ce24a60e4c75b4772355f48357978f",
+            "name": "CẶP BALO DORAEMON DOREMON ĐI HỌC, ĐỰNG LAPTOP, VẢI DÀY DẶN CHẮC CHẮN",
+            "price": [
+                {
+                    "old": 150000,
+                    "new": 120000
+                }
+            ]
+        },
+        {
+            "img": "https://down-vn.img.susercontent.com/file/05856f63498c81f2b11be97a1213de66",
+            "name": "MÔ HÌNH DORAEMON 12 TẬP TRUYỆN, BỘ SƯU TẬP TRANG TRÍ BÀN HỌC",
+            "price": [
+                {
+                    "old": 380000,
+                    "new": 350000
+                }
+            ]
+        },
+        {
+            "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22100-ea7ikkulrkiv58",
+            "name": "ĐỒ GIA DỤNG HỌA TIẾT DORAEMON DỄ THƯƠNG, NHIỀU MẪU MÃ",
+            "price": [
+                {
+                    "old": 120000,
+                    "new": 85000
+                }
+            ]
+        },
+        {
+            "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llllg0ac73r0ca",
+            "name": "BÌNH NƯỚC DORAEMON 450ML ĐỘC ĐÁO, DỄ THƯƠNG, TIỆN DỤNG",
+            "price": [
+                {
+                    "old": 100000,
+                    "new": 65000
+                }
+            ]
+        },
+        {
+            "img": "https://down-vn.img.susercontent.com/file/19c4a9744bd0689f9a7f8303407e9a59",
+            "name": "BÌNH LY NƯỚC DORAEMON THỦY TINH (KHÔNG KÈM NẮP ỐNG HÌNH MON) KÈM NẮP VÀ ỐNG HÚT XINH TƯƠI",
+            "price": [
+                {
+                    "old": 160000,
+                    "new": 89000
+                }
+            ]
+        },
+        {
+            "img": "https://down-vn.img.susercontent.com/file/bc9974d47d397665d98f15f8429ec898",
+            "name": "GIẤY STICKER DECAL DÁN DORAEMON CHỐNG THẤM DỄ THƯƠNG",
+            "price": [
+                {
+                    "old": 45000,
+                    "new": 35000
+                }
+            ]
+        },
+        {
+            "img": "https://down-vn.img.susercontent.com/file/29ad553fa22c8a05b051d465f0b43de4",
+            "name": "ĐÈN NGỦ TRANG TRÍ DOREMON DORAEMON CHUÔNG VÀNG",
+            "price": [
+                {
+                    "old": 350000,
+                    "new": 199000
+                }
+            ]
+        }
+    ]
+}
